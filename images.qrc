@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/player_blue.png</file>
+        <file>images/player_green.png</file>
+        <file>images/player_red.png</file>
+        <file>images/player_yellow.png</file>
+    </qresource>
+</RCC>
